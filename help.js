@@ -728,8 +728,8 @@ Number: 085789004732
 A/N: LEXXY STORE
 
 *Payment Dana*
-Number: 085789004732
-A/N: LEXXY OFFICIAL
+Number: 085709420641
+A/N: AGUNG
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
 
@@ -740,17 +740,17 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* Lexxy Official
+ • *Nama:* Agung
  • *Umur:* 18 tahun
  • *Hoby:* Turu/Game
- • *Askot:* Palembang
+ • *Askot:* lampung
  • *Konten:* Creator
 
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 083834558105
- • *Youtube:* Lexxy Official
- • *Github:* Lexxy24
+ • *Whatsapp:* 085709420641
+ • *Youtube:* kosong
+ • *Github:* agung-bot1
  `
 }
